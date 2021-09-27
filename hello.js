@@ -1,0 +1,1 @@
+console.log("hello guys this is my repostitory about sql, I am learning it from j2teamtachable, this lace is very ineresting where i can learn very effectively, sorry for my english, i am not spend much time to leraning english correctly, i just learn about vocabulary to undertands what the docs is hihi")
